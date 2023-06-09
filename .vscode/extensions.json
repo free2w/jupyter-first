@@ -1,5 +1,10 @@
 {
-    "recommendations": [
-        "donjayamanne.python-extension-pack"
-    ]
+  "recommendations": [
+    "ms-python.python",
+    "wholroyd.jinja",
+    "visualstudioexptteam.vscodeintellicode",
+    "njpwerner.autodocstring",
+    "ms-toolsai.jupyter",
+    "ms-python.vscode-pylance"
+  ]
 }
